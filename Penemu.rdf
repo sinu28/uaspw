@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:org="http://www.penemu.fake/#">
+	
+	<rdf:Description rdf:about="http://www.usu.facility/Akomodasi">
+	 <org:nama>Akomodasi</org:nama>
+        <org:gambar>https://www.usu.ac.id/images/Fasiltas/Asrama_Putri_dalam.jpg</org:gambar>
+        <org:jenis> Asrama Putra, Asrama Putri </org:jenis>
+	 <org:penjelasan>-</org:penjelasan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.usu.facility/Medis">
+	 <org:nama>Medis</org:nama>
+        <org:gambar>https://www.usu.ac.id/images/unit/RSUSU-1.jpg</org:gambar>
+        <org:jenis> Rumah Sakit USU, Poliklinik, RSPGM  </org:jenis>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.usu.facility/Olahraga">
+	   <org:nama>Olahraga</org:nama>
+        <org:gambar>https://www.usu.ac.id/images/Fasiltas/stadion_baru.jpg</org:gambar>
+        <org:jenis> Kolam renang, sarana kebugaran, </org:jenis>
+    <org:penjelasan>softball, olahraga dalam ruangan, lintasan atletik, lapangan baseball, stadion </org:penjelasan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.usu.facility/Keagamaan">
+	 <org:nama>Keagamaan</org:nama>
+        <org:gambar>https://www.usu.ac.id/images/Fasiltas/gereja.jpg</org:gambar>
+        <org:jenis> Mesjid, Gereja, Ruang Keagamaan </org:jenis>
+  
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.usu.facility/Transportasi">
+	  <org:nama>Transportasi</org:nama>
+        <org:gambar>https://www.usu.ac.id/images/Fasiltas/bus1.jpg</org:gambar>
+        <org:jenis> BUS USU  </org:jenis>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.usu.facility/Balai_pertemuan">
+	<org:nama>Balai Pertemuan</org:nama>
+        <org:gambar>https://www.usu.ac.id/images/Fakultas/Fak_NewPhoto/Auditorium_USU.jpg</org:gambar>
+        <org:jenis> Auditorium </org:jenis>
+    <org:penjelasan>Gelanggang Mahasiswa, Gedung Pancasila</org:penjelasan>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.usu.facility/Sepeda_USU">
+	 <org:nama>Transportasi</org:nama>
+        <org:gambar>https://www.usu.ac.id/images/Fasiltas/Sepeda_3.jpg</org:gambar>
+        <org:jenis> Sepeda USU</org:jenis>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.usu.facility/Akses_disabilitas">
+	  <org:nama>Akses Disabilitas</org:nama>
+        <org:gambar>https://www.usu.ac.id/images/Fasiltas/difable_akses_H_anif_1_Custom.jpg</org:gambar>
+        <org:jenis> akses disabilitas</org:jenis>
+	</rdf:Description>
+	
+	<rdf:Description rdf:about="http://www.usu.facility/kolam_renang">
+	 <org:nama>Olahraga</org:nama>
+	 <org:jenis>Kolam Renang</org:jenis>
+	 <org:gambar>https://www.usu.ac.id/images/Fasiltas/pool1.jpg</org:gambar>
+	</rdf:Description>
+</rdf:RDF>
